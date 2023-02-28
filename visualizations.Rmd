@@ -1,0 +1,42 @@
+---
+title: "Visualizations"
+author: "Casey Dulaney"
+date: "2023-02-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Heat Map
+```{r}
+
+```
+
+
+# Logistic Regression
+```{r}
+
+```
+
+
+# Is Neutral Zone best place to throw?
+```{r}
+
+```
+
+
+
+# moves that have higher success rate of dodge
+```{r}
+
+```
+
+
+# Monte Carlo 
+```{r}
+
+```
+
